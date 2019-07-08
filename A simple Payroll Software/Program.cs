@@ -15,8 +15,6 @@ namespace A_simple_Payroll_Software
             int year = 0;
             int month = 0;
 
-            
-
             try
             {
                 while (year == 0)
@@ -62,7 +60,6 @@ namespace A_simple_Payroll_Software
                     Console.WriteLine(e);
                     i--;
                 }
-                
             }
             PaySlip ps = new PaySlip(month, year);
 
@@ -71,7 +68,6 @@ namespace A_simple_Payroll_Software
             ps.GenerateSummary(myStaff);
 
             Console.Read();
-
 
         }
     }

@@ -38,10 +38,9 @@ namespace A_simple_Payroll_Software
                         sw.WriteLine("======================");
                         sw.WriteLine(" Total Pay: " + f.TotalPay);
                         sw.WriteLine("======================");
-                        
+                        sw.Close();
                     }
-                    sw.Close();
-
+                    
                 }
 
                 if (f.GetType().ToString() == "Admin")
@@ -57,13 +56,11 @@ namespace A_simple_Payroll_Software
                         sw.WriteLine("======================");
                         sw.WriteLine(" Total Pay: " + f.TotalPay);
                         sw.WriteLine("======================");
-                        
+                        sw.Close();
                     }
-                    sw.Close();
                 }
 
             }
-
         }
         public void GenerateSummary(List<Staff> myStaff)
         {

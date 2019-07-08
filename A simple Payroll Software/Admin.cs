@@ -15,7 +15,6 @@ namespace A_simple_Payroll_Software
 
         public Admin(string name) : base(name, adminHourlyRate)
         {
-
         }
 
         public override void CalculatePay()

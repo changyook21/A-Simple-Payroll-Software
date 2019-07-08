@@ -18,7 +18,6 @@ namespace A_simple_Payroll_Software
 
         public Manager(string name):base(name, managerHourlyRate)
         {
-
         }
 
         public override void CalculatePay()

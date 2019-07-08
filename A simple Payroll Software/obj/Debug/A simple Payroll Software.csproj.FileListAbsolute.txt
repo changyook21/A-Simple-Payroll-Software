@@ -1,0 +1,7 @@
+C:\Users\Chang\source\repos\A simple Payroll Software\A simple Payroll Software\bin\Debug\A simple Payroll Software.exe.config
+C:\Users\Chang\source\repos\A simple Payroll Software\A simple Payroll Software\bin\Debug\A simple Payroll Software.exe
+C:\Users\Chang\source\repos\A simple Payroll Software\A simple Payroll Software\bin\Debug\A simple Payroll Software.pdb
+C:\Users\Chang\source\repos\A simple Payroll Software\A simple Payroll Software\obj\Debug\A simple Payroll Software.csprojAssemblyReference.cache
+C:\Users\Chang\source\repos\A simple Payroll Software\A simple Payroll Software\obj\Debug\A simple Payroll Software.csproj.CoreCompileInputs.cache
+C:\Users\Chang\source\repos\A simple Payroll Software\A simple Payroll Software\obj\Debug\A simple Payroll Software.exe
+C:\Users\Chang\source\repos\A simple Payroll Software\A simple Payroll Software\obj\Debug\A simple Payroll Software.pdb
